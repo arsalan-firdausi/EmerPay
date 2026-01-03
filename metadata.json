@@ -1,0 +1,9 @@
+{
+  "name": "EmerPay",
+  "description": "A high-fidelity AI-first fintech demo application showcasing next-gen payment flows including offline tokens, biometric merchant auth, and voice-driven transactions.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
